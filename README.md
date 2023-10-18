@@ -32,13 +32,14 @@ After configuration, the device will transfer the vibration data to the specifie
 
 2. **Code Build & Upload:88
   ```bash
-  Copy code
   # Build the code
   platformio run
-```
+   ```
 
 # Upload to M5stack-core2
-platformio run --target upload
+   ```bash
+   platformio run --target upload
+   ```
 
 :computer: User Interface
 For a comprehensive user-interface to visualize and interpret the vibration data, please visit [pyVibSense]([https://github.com/pyVibSense](https://github.com/nexus1203/pyVibSense/tree/main)).
