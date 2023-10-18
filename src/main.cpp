@@ -903,7 +903,6 @@ void setup()
   if (xSemaphore == NULL)
   {
     Serial.println("Failed to create semaphore!");
-    // Handle this appropriately, maybe halt the system or indicate error via LEDs
   }
 
   xTaskCreatePinnedToCore(
