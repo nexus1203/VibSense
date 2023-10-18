@@ -42,7 +42,7 @@ After configuration, the device will transfer the vibration data to the specifie
    ```
 
 :computer: User Interface
-For a comprehensive user-interface to visualize and interpret the vibration data, please visit [pyVibSense]([https://github.com/pyVibSense](https://github.com/nexus1203/pyVibSense/tree/main)).
+For a comprehensive user-interface to visualize and interpret the vibration data, please visit [pyVibSense](https://github.com/nexus1203/pyVibSense/tree/main).
 
 :bulb: Tips
 Ensure a stable power source for the M5stack-core during the upload process.
