@@ -18,6 +18,7 @@ During the startup of the device, press the center button to enter the setup mod
 - Accelerometer Sensitivity
 
 After configuration, the device will transfer the vibration data to the specified `remoteIP`. Ensure both devices (VibSense and `remoteIP`) are on the same WiFi network for successful data transmission.
+![image](https://github.com/nexus1203/VibSense/assets/70212520/f5d16c68-e28d-43dd-a81f-7e6c611ba036)
 
 ## :rocket: Installation & Setup
 
