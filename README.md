@@ -52,5 +52,3 @@ For any issues during setup or usage, please raise an issue in the GitHub reposi
 :memo: License
 This project is licensed under the MIT License. See LICENSE for more details.
 
-
-You can copy and paste the above markdown into your README.md file on GitHub. Make sure t
